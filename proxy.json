@@ -1,0 +1,284 @@
+[
+    {
+        "name": "google",
+        "proxies": "35.231.35.149:3128:cookpyqz:password\n34.74.134.20:3128:cookpyqz:password\n35.190.161.199:3128:cookpyqz:password\n104.196.28.60:3128:cookpyqz:password\n35.247.8.241:3128:cookpyqz:password\n34.83.68.75:3128:cookpyqz:password\n34.83.53.141:3128:cookpyqz:password\n34.83.182.71:3128:cookpyqz:password\n34.94.76.232:3128:cookpyqz:password\n35.236.97.6:3128:cookpyqz:password\n34.94.50.159:3128:cookpyqz:password",
+        "date": 1565849780112,
+        "parsed": [
+            {
+                "ip": "35.231.35.149",
+                "port": "3128",
+                "username": "cookpyqz",
+                "password": "password"
+            },
+            {
+                "ip": "34.74.134.20",
+                "port": "3128",
+                "username": "cookpyqz",
+                "password": "password"
+            },
+            {
+                "ip": "35.190.161.199",
+                "port": "3128",
+                "username": "cookpyqz",
+                "password": "password"
+            },
+            {
+                "ip": "104.196.28.60",
+                "port": "3128",
+                "username": "cookpyqz",
+                "password": "password"
+            },
+            {
+                "ip": "35.247.8.241",
+                "port": "3128",
+                "username": "cookpyqz",
+                "password": "password"
+            },
+            {
+                "ip": "34.83.68.75",
+                "port": "3128",
+                "username": "cookpyqz",
+                "password": "password"
+            },
+            {
+                "ip": "34.83.53.141",
+                "port": "3128",
+                "username": "cookpyqz",
+                "password": "password"
+            },
+            {
+                "ip": "34.83.182.71",
+                "port": "3128",
+                "username": "cookpyqz",
+                "password": "password"
+            },
+            {
+                "ip": "34.94.76.232",
+                "port": "3128",
+                "username": "cookpyqz",
+                "password": "password"
+            },
+            {
+                "ip": "35.236.97.6",
+                "port": "3128",
+                "username": "cookpyqz",
+                "password": "password"
+            },
+            {
+                "ip": "34.94.50.159",
+                "port": "3128",
+                "username": "cookpyqz",
+                "password": "password"
+            }
+        ],
+        "count": 11
+    },
+    {
+        "name": "EU",
+        "proxies": "uk-static-3.securebalancereu.com:30514\nuk-static-3.securebalancereu.com:30099\nuk-static-3.securebalancereu.com:30360\nuk-static-1.securebalancereu.com:10693\nuk-static-3.securebalancereu.com:30477\nuk-static-3.securebalancereu.com:30562\nuk-static-3.securebalancereu.com:30659\nuk-static-3.securebalancereu.com:30446\nuk-static-3.securebalancereu.com:30666\nuk-static-3.securebalancereu.com:30189\nuk-static-3.securebalancereu.com:30814\nuk-static-3.securebalancereu.com:30452\nuk-static-1.securebalancereu.com:10277\nuk-static-3.securebalancereu.com:30554\nuk-static-2.securebalancereu.com:10250\nuk-static-3.securebalancereu.com:30519\nuk-static-3.securebalancereu.com:30566\nuk-static-3.securebalancereu.com:30821\nuk-static-2.securebalancereu.com:10726\nuk-static-3.securebalancereu.com:30890\nuk-static-3.securebalancereu.com:30031\nuk-static-3.securebalancereu.com:30107\nuk-static-3.securebalancereu.com:30427\nuk-static-2.securebalancereu.com:10575\nuk-static-1.securebalancereu.com:10059\nuk-static-2.securebalancereu.com:10410\nuk-static-3.securebalancereu.com:30521\nuk-static-3.securebalancereu.com:30262\nuk-static-3.securebalancereu.com:30041\nuk-static-3.securebalancereu.com:30567\nuk-static-3.securebalancereu.com:30808\nuk-static-3.securebalancereu.com:30344\nuk-static-2.securebalancereu.com:10821\nuk-static-3.securebalancereu.com:30552\nuk-static-3.securebalancereu.com:30301\nuk-static-3.securebalancereu.com:30842\nuk-static-3.securebalancereu.com:30974\nuk-static-3.securebalancereu.com:30713\nuk-static-3.securebalancereu.com:30789\nuk-static-3.securebalancereu.com:30429\nuk-static-3.securebalancereu.com:30356\nuk-static-3.securebalancereu.com:30882\nuk-static-3.securebalancereu.com:30400\nuk-static-2.securebalancereu.com:10424\nuk-static-3.securebalancereu.com:30642\nuk-static-3.securebalancereu.com:30959\nuk-static-3.securebalancereu.com:30843\nuk-static-3.securebalancereu.com:30320\nuk-static-1.securebalancereu.com:10222\nuk-static-2.securebalancereu.com:10031",
+        "date": 1565918678834,
+        "parsed": [
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30514"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30099"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30360"
+            },
+            {
+                "ip": "uk-static-1.securebalancereu.com",
+                "port": "10693"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30477"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30562"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30659"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30446"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30666"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30189"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30814"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30452"
+            },
+            {
+                "ip": "uk-static-1.securebalancereu.com",
+                "port": "10277"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30554"
+            },
+            {
+                "ip": "uk-static-2.securebalancereu.com",
+                "port": "10250"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30519"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30566"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30821"
+            },
+            {
+                "ip": "uk-static-2.securebalancereu.com",
+                "port": "10726"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30890"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30031"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30107"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30427"
+            },
+            {
+                "ip": "uk-static-2.securebalancereu.com",
+                "port": "10575"
+            },
+            {
+                "ip": "uk-static-1.securebalancereu.com",
+                "port": "10059"
+            },
+            {
+                "ip": "uk-static-2.securebalancereu.com",
+                "port": "10410"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30521"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30262"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30041"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30567"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30808"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30344"
+            },
+            {
+                "ip": "uk-static-2.securebalancereu.com",
+                "port": "10821"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30552"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30301"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30842"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30974"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30713"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30789"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30429"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30356"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30882"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30400"
+            },
+            {
+                "ip": "uk-static-2.securebalancereu.com",
+                "port": "10424"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30642"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30959"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30843"
+            },
+            {
+                "ip": "uk-static-3.securebalancereu.com",
+                "port": "30320"
+            },
+            {
+                "ip": "uk-static-1.securebalancereu.com",
+                "port": "10222"
+            },
+            {
+                "ip": "uk-static-2.securebalancereu.com",
+                "port": "10031"
+            }
+        ],
+        "count": 50
+    }
+]
