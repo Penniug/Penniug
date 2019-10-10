@@ -1,0 +1,1966 @@
+[
+    {
+        "name": "CHI",
+        "proxies": "35.176.135.247:33128:0pWXH6CK!a100:pasGHSPX\n3.10.117.241:33128:0pWXH6CK!a71:pasGHSPX\n3.9.164.214:33128:0pWXH6CK!a9:pasGHSPX\n18.130.95.151:33128:0pWXH6CK!a46:pasGHSPX\n3.8.131.6:33128:0pWXH6CK!a97:pasGHSPX\n3.8.3.127:33128:0pWXH6CK!a62:pasGHSPX\n3.8.126.199:33128:0pWXH6CK!a93:pasGHSPX\n3.10.116.205:33128:0pWXH6CK!a96:pasGHSPX\n52.56.116.191:33128:0pWXH6CK!a49:pasGHSPX\n35.178.204.227:33128:0pWXH6CK!a32:pasGHSPX\n35.177.87.99:33128:0pWXH6CK!a61:pasGHSPX\n18.130.247.154:33128:0pWXH6CK!a33:pasGHSPX\n35.177.221.132:33128:0pWXH6CK!a68:pasGHSPX\n35.178.204.227:33128:0pWXH6CK!a66:pasGHSPX\n52.56.146.141:33128:0pWXH6CK!a98:pasGHSPX\n3.9.115.2:33128:0pWXH6CK!a91:pasGHSPX\n18.130.210.106:33128:0pWXH6CK!a85:pasGHSPX\n52.56.125.11:33128:0pWXH6CK!a56:pasGHSPX\n3.8.48.56:33128:0pWXH6CK!a20:pasGHSPX\n35.178.126.129:33128:0pWXH6CK!a58:pasGHSPX\n3.8.175.1:33128:0pWXH6CK!a69:pasGHSPX\n35.176.135.247:33128:0pWXH6CK!a57:pasGHSPX\n52.56.211.174:33128:0pWXH6CK!a59:pasGHSPX\n35.176.135.247:33128:0pWXH6CK!a68:pasGHSPX\n52.56.116.191:33128:0pWXH6CK!a104:pasGHSPX\n52.56.146.141:33128:0pWXH6CK!a88:pasGHSPX\n3.8.137.167:33128:0pWXH6CK!a85:pasGHSPX\n3.8.175.1:33128:0pWXH6CK!a87:pasGHSPX\n3.10.117.241:33128:0pWXH6CK!a99:pasGHSPX\n18.130.210.106:33128:0pWXH6CK!a40:pasGHSPX\n18.130.53.185:33128:0pWXH6CK!a110:pasGHSPX\n18.130.60.138:33128:0pWXH6CK!a86:pasGHSPX\n3.10.139.237:33128:0pWXH6CK!a63:pasGHSPX\n18.130.210.106:33128:0pWXH6CK!a63:pasGHSPX\n18.130.168.209:33128:0pWXH6CK!a28:pasGHSPX\n3.8.101.155:33128:0pWXH6CK!a25:pasGHSPX\n18.130.247.154:33128:0pWXH6CK!a109:pasGHSPX\n3.8.175.1:33128:0pWXH6CK!a29:pasGHSPX\n3.8.48.56:33128:0pWXH6CK!a123:pasGHSPX\n3.9.118.2:33128:0pWXH6CK!a33:pasGHSPX\n35.176.15.212:33128:0pWXH6CK!a119:pasGHSPX\n3.9.118.193:33128:0pWXH6CK!a58:pasGHSPX\n52.56.217.245:33128:0pWXH6CK!a98:pasGHSPX\n3.8.131.6:33128:0pWXH6CK!a91:pasGHSPX\n3.9.10.53:33128:0pWXH6CK!a35:pasGHSPX\n18.130.118.129:33128:0pWXH6CK!a94:pasGHSPX\n3.9.10.53:33128:0pWXH6CK!a50:pasGHSPX\n3.9.172.76:33128:0pWXH6CK!a50:pasGHSPX\n3.8.126.199:33128:0pWXH6CK!a71:pasGHSPX\n35.177.72.175:33128:0pWXH6CK!a101:pasGHSPX\n35.177.72.175:33128:0pWXH6CK!a33:pasGHSPX\n18.130.4.116:33128:0pWXH6CK!a115:pasGHSPX\n3.10.116.205:33128:0pWXH6CK!a138:pasGHSPX\n3.8.175.1:33128:0pWXH6CK!a133:pasGHSPX\n52.56.138.193:33128:0pWXH6CK!a139:pasGHSPX\n3.9.10.53:33128:0pWXH6CK!a16:pasGHSPX\n3.10.141.55:33128:0pWXH6CK!a135:pasGHSPX\n35.177.221.132:33128:0pWXH6CK!a136:pasGHSPX\n18.130.118.129:33128:0pWXH6CK!a6:pasGHSPX\n35.178.126.129:33128:0pWXH6CK!a5:pasGHSPX\n52.56.217.245:33128:0pWXH6CK!a132:pasGHSPX\n3.8.126.199:33128:0pWXH6CK!a77:pasGHSPX\n3.10.141.132:33128:0pWXH6CK!a131:pasGHSPX\n3.10.143.69:33128:0pWXH6CK!a75:pasGHSPX\n3.10.117.151:33128:0pWXH6CK!a53:pasGHSPX\n18.130.136.142:33128:0pWXH6CK!a19:pasGHSPX\n3.9.164.214:33128:0pWXH6CK!a32:pasGHSPX\n18.130.118.129:33128:0pWXH6CK!a74:pasGHSPX\n35.178.171.212:33128:0pWXH6CK!a121:pasGHSPX\n3.9.171.232:33128:0pWXH6CK!a9:pasGHSPX\n3.9.164.214:33128:0pWXH6CK!a43:pasGHSPX\n35.176.135.247:33128:0pWXH6CK!a31:pasGHSPX\n35.176.227.208:33128:0pWXH6CK!a21:pasGHSPX\n3.8.137.167:33128:0pWXH6CK!a52:pasGHSPX\n3.8.175.1:33128:0pWXH6CK!a163:pasGHSPX\n3.10.143.69:33128:0pWXH6CK!a118:pasGHSPX\n35.177.87.99:33128:0pWXH6CK!a30:pasGHSPX\n3.10.141.55:33128:0pWXH6CK!a97:pasGHSPX\n52.56.211.174:33128:0pWXH6CK!a77:pasGHSPX\n18.130.27.47:33128:0pWXH6CK!a89:pasGHSPX\n35.177.81.17:33128:0pWXH6CK!a96:pasGHSPX\n3.10.141.136:33128:0pWXH6CK!a88:pasGHSPX\n35.178.171.212:33128:0pWXH6CK!a26:pasGHSPX\n52.56.114.95:33128:0pWXH6CK!a28:pasGHSPX\n52.56.146.141:33128:0pWXH6CK!a84:pasGHSPX\n3.9.179.96:33128:0pWXH6CK!a48:pasGHSPX\n35.177.87.99:33128:0pWXH6CK!a175:pasGHSPX\n52.56.217.245:33128:0pWXH6CK!a34:pasGHSPX\n3.8.175.1:33128:0pWXH6CK!a182:pasGHSPX\n52.56.211.174:33128:0pWXH6CK!a91:pasGHSPX\n18.130.249.58:33128:0pWXH6CK!a90:pasGHSPX\n18.130.53.185:33128:0pWXH6CK!a20:pasGHSPX\n52.56.138.193:33128:0pWXH6CK!a57:pasGHSPX\n3.10.143.69:33128:0pWXH6CK!a164:pasGHSPX\n18.130.95.151:33128:0pWXH6CK!a126:pasGHSPX\n18.130.59.88:33128:0pWXH6CK!a16:pasGHSPX\n35.176.167.147:33128:0pWXH6CK!a80:pasGHSPX\n52.56.217.245:33128:0pWXH6CK!a152:pasGHSPX\n52.56.146.141:33128:0pWXH6CK!a92:pasGHSPX",
+        "date": 1570696497439,
+        "parsed": [
+            {
+                "ip": "35.176.135.247",
+                "port": "33128",
+                "username": "0pWXH6CK!a100",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.10.117.241",
+                "port": "33128",
+                "username": "0pWXH6CK!a71",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.9.164.214",
+                "port": "33128",
+                "username": "0pWXH6CK!a9",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "18.130.95.151",
+                "port": "33128",
+                "username": "0pWXH6CK!a46",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.8.131.6",
+                "port": "33128",
+                "username": "0pWXH6CK!a97",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.8.3.127",
+                "port": "33128",
+                "username": "0pWXH6CK!a62",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.8.126.199",
+                "port": "33128",
+                "username": "0pWXH6CK!a93",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.10.116.205",
+                "port": "33128",
+                "username": "0pWXH6CK!a96",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "52.56.116.191",
+                "port": "33128",
+                "username": "0pWXH6CK!a49",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "35.178.204.227",
+                "port": "33128",
+                "username": "0pWXH6CK!a32",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "35.177.87.99",
+                "port": "33128",
+                "username": "0pWXH6CK!a61",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "18.130.247.154",
+                "port": "33128",
+                "username": "0pWXH6CK!a33",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "35.177.221.132",
+                "port": "33128",
+                "username": "0pWXH6CK!a68",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "35.178.204.227",
+                "port": "33128",
+                "username": "0pWXH6CK!a66",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "52.56.146.141",
+                "port": "33128",
+                "username": "0pWXH6CK!a98",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.9.115.2",
+                "port": "33128",
+                "username": "0pWXH6CK!a91",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "18.130.210.106",
+                "port": "33128",
+                "username": "0pWXH6CK!a85",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "52.56.125.11",
+                "port": "33128",
+                "username": "0pWXH6CK!a56",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.8.48.56",
+                "port": "33128",
+                "username": "0pWXH6CK!a20",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "35.178.126.129",
+                "port": "33128",
+                "username": "0pWXH6CK!a58",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.8.175.1",
+                "port": "33128",
+                "username": "0pWXH6CK!a69",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "35.176.135.247",
+                "port": "33128",
+                "username": "0pWXH6CK!a57",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "52.56.211.174",
+                "port": "33128",
+                "username": "0pWXH6CK!a59",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "35.176.135.247",
+                "port": "33128",
+                "username": "0pWXH6CK!a68",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "52.56.116.191",
+                "port": "33128",
+                "username": "0pWXH6CK!a104",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "52.56.146.141",
+                "port": "33128",
+                "username": "0pWXH6CK!a88",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.8.137.167",
+                "port": "33128",
+                "username": "0pWXH6CK!a85",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.8.175.1",
+                "port": "33128",
+                "username": "0pWXH6CK!a87",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.10.117.241",
+                "port": "33128",
+                "username": "0pWXH6CK!a99",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "18.130.210.106",
+                "port": "33128",
+                "username": "0pWXH6CK!a40",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "18.130.53.185",
+                "port": "33128",
+                "username": "0pWXH6CK!a110",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "18.130.60.138",
+                "port": "33128",
+                "username": "0pWXH6CK!a86",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.10.139.237",
+                "port": "33128",
+                "username": "0pWXH6CK!a63",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "18.130.210.106",
+                "port": "33128",
+                "username": "0pWXH6CK!a63",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "18.130.168.209",
+                "port": "33128",
+                "username": "0pWXH6CK!a28",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.8.101.155",
+                "port": "33128",
+                "username": "0pWXH6CK!a25",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "18.130.247.154",
+                "port": "33128",
+                "username": "0pWXH6CK!a109",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.8.175.1",
+                "port": "33128",
+                "username": "0pWXH6CK!a29",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.8.48.56",
+                "port": "33128",
+                "username": "0pWXH6CK!a123",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.9.118.2",
+                "port": "33128",
+                "username": "0pWXH6CK!a33",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "35.176.15.212",
+                "port": "33128",
+                "username": "0pWXH6CK!a119",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.9.118.193",
+                "port": "33128",
+                "username": "0pWXH6CK!a58",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "52.56.217.245",
+                "port": "33128",
+                "username": "0pWXH6CK!a98",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.8.131.6",
+                "port": "33128",
+                "username": "0pWXH6CK!a91",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.9.10.53",
+                "port": "33128",
+                "username": "0pWXH6CK!a35",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "18.130.118.129",
+                "port": "33128",
+                "username": "0pWXH6CK!a94",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.9.10.53",
+                "port": "33128",
+                "username": "0pWXH6CK!a50",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.9.172.76",
+                "port": "33128",
+                "username": "0pWXH6CK!a50",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.8.126.199",
+                "port": "33128",
+                "username": "0pWXH6CK!a71",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "35.177.72.175",
+                "port": "33128",
+                "username": "0pWXH6CK!a101",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "35.177.72.175",
+                "port": "33128",
+                "username": "0pWXH6CK!a33",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "18.130.4.116",
+                "port": "33128",
+                "username": "0pWXH6CK!a115",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.10.116.205",
+                "port": "33128",
+                "username": "0pWXH6CK!a138",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.8.175.1",
+                "port": "33128",
+                "username": "0pWXH6CK!a133",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "52.56.138.193",
+                "port": "33128",
+                "username": "0pWXH6CK!a139",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.9.10.53",
+                "port": "33128",
+                "username": "0pWXH6CK!a16",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.10.141.55",
+                "port": "33128",
+                "username": "0pWXH6CK!a135",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "35.177.221.132",
+                "port": "33128",
+                "username": "0pWXH6CK!a136",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "18.130.118.129",
+                "port": "33128",
+                "username": "0pWXH6CK!a6",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "35.178.126.129",
+                "port": "33128",
+                "username": "0pWXH6CK!a5",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "52.56.217.245",
+                "port": "33128",
+                "username": "0pWXH6CK!a132",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.8.126.199",
+                "port": "33128",
+                "username": "0pWXH6CK!a77",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.10.141.132",
+                "port": "33128",
+                "username": "0pWXH6CK!a131",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.10.143.69",
+                "port": "33128",
+                "username": "0pWXH6CK!a75",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.10.117.151",
+                "port": "33128",
+                "username": "0pWXH6CK!a53",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "18.130.136.142",
+                "port": "33128",
+                "username": "0pWXH6CK!a19",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.9.164.214",
+                "port": "33128",
+                "username": "0pWXH6CK!a32",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "18.130.118.129",
+                "port": "33128",
+                "username": "0pWXH6CK!a74",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "35.178.171.212",
+                "port": "33128",
+                "username": "0pWXH6CK!a121",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.9.171.232",
+                "port": "33128",
+                "username": "0pWXH6CK!a9",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.9.164.214",
+                "port": "33128",
+                "username": "0pWXH6CK!a43",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "35.176.135.247",
+                "port": "33128",
+                "username": "0pWXH6CK!a31",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "35.176.227.208",
+                "port": "33128",
+                "username": "0pWXH6CK!a21",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.8.137.167",
+                "port": "33128",
+                "username": "0pWXH6CK!a52",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.8.175.1",
+                "port": "33128",
+                "username": "0pWXH6CK!a163",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.10.143.69",
+                "port": "33128",
+                "username": "0pWXH6CK!a118",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "35.177.87.99",
+                "port": "33128",
+                "username": "0pWXH6CK!a30",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.10.141.55",
+                "port": "33128",
+                "username": "0pWXH6CK!a97",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "52.56.211.174",
+                "port": "33128",
+                "username": "0pWXH6CK!a77",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "18.130.27.47",
+                "port": "33128",
+                "username": "0pWXH6CK!a89",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "35.177.81.17",
+                "port": "33128",
+                "username": "0pWXH6CK!a96",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.10.141.136",
+                "port": "33128",
+                "username": "0pWXH6CK!a88",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "35.178.171.212",
+                "port": "33128",
+                "username": "0pWXH6CK!a26",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "52.56.114.95",
+                "port": "33128",
+                "username": "0pWXH6CK!a28",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "52.56.146.141",
+                "port": "33128",
+                "username": "0pWXH6CK!a84",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.9.179.96",
+                "port": "33128",
+                "username": "0pWXH6CK!a48",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "35.177.87.99",
+                "port": "33128",
+                "username": "0pWXH6CK!a175",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "52.56.217.245",
+                "port": "33128",
+                "username": "0pWXH6CK!a34",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.8.175.1",
+                "port": "33128",
+                "username": "0pWXH6CK!a182",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "52.56.211.174",
+                "port": "33128",
+                "username": "0pWXH6CK!a91",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "18.130.249.58",
+                "port": "33128",
+                "username": "0pWXH6CK!a90",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "18.130.53.185",
+                "port": "33128",
+                "username": "0pWXH6CK!a20",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "52.56.138.193",
+                "port": "33128",
+                "username": "0pWXH6CK!a57",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "3.10.143.69",
+                "port": "33128",
+                "username": "0pWXH6CK!a164",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "18.130.95.151",
+                "port": "33128",
+                "username": "0pWXH6CK!a126",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "18.130.59.88",
+                "port": "33128",
+                "username": "0pWXH6CK!a16",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "35.176.167.147",
+                "port": "33128",
+                "username": "0pWXH6CK!a80",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "52.56.217.245",
+                "port": "33128",
+                "username": "0pWXH6CK!a152",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "52.56.146.141",
+                "port": "33128",
+                "username": "0pWXH6CK!a92",
+                "password": "pasGHSPX"
+            }
+        ],
+        "count": 99
+    },
+    {
+        "name": "EVE",
+        "proxies": "snkrs-uk-S3.chicooked.io:33128:0pWXH6CK!a31:pasGHSPX\nsnkrs-uk-S19.chicooked.io:33128:0pWXH6CK!a63:pasGHSPX\nsnkrs-uk-S32.chicooked.io:33128:0pWXH6CK!a68:pasGHSPX\nsnkrs-uk-S17.chicooked.io:33128:0pWXH6CK!a28:pasGHSPX\nsnkrs-uk-S29.chicooked.io:33128:0pWXH6CK!a58:pasGHSPX\nsnkrs-uk-S25.chicooked.io:33128:0pWXH6CK!a57:pasGHSPX\nsnkrs-uk-S20.chicooked.io:33128:0pWXH6CK!a92:pasGHSPX\nsnkrs-uk-S30.chicooked.io:33128:0pWXH6CK!a4:pasGHSPX\nsnkrs-uk-S13.chicooked.io:33128:0pWXH6CK!a25:pasGHSPX\nsnkrs-uk-S36.chicooked.io:33128:0pWXH6CK!a50:pasGHSPX\nsnkrs-uk-S24.chicooked.io:33128:0pWXH6CK!a93:pasGHSPX\nsnkrs-uk-S28.chicooked.io:33128:0pWXH6CK!a34:pasGHSPX\nsnkrs-uk-S33.chicooked.io:33128:0pWXH6CK!a9:pasGHSPX\nsnkrs-uk-S36.chicooked.io:33128:0pWXH6CK!a21:pasGHSPX\nsnkrs-uk-S7.chicooked.io:33128:0pWXH6CK!a16:pasGHSPX\nsnkrs-uk-S35.chicooked.io:33128:0pWXH6CK!a4:pasGHSPX\nsnkrs-uk-S34.chicooked.io:33128:0pWXH6CK!a50:pasGHSPX\nsnkrs-uk-S26.chicooked.io:33128:0pWXH6CK!a94:pasGHSPX\nsnkrs-uk-S10.chicooked.io:33128:0pWXH6CK!a55:pasGHSPX\nsnkrs-uk-S7.chicooked.io:33128:0pWXH6CK!a34:pasGHSPX\nsnkrs-uk-S8.chicooked.io:33128:0pWXH6CK!a66:pasGHSPX\nsnkrs-uk-S8.chicooked.io:33128:0pWXH6CK!a43:pasGHSPX\nsnkrs-uk-S15.chicooked.io:33128:0pWXH6CK!a98:pasGHSPX\nsnkrs-uk-S10.chicooked.io:33128:0pWXH6CK!a90:pasGHSPX\nsnkrs-uk-S12.chicooked.io:33128:0pWXH6CK!a81:pasGHSPX\nsnkrs-uk-S20.chicooked.io:33128:0pWXH6CK!a83:pasGHSPX\nsnkrs-uk-S19.chicooked.io:33128:0pWXH6CK!a17:pasGHSPX\nsnkrs-uk-S17.chicooked.io:33128:0pWXH6CK!a47:pasGHSPX\nsnkrs-uk-S20.chicooked.io:33128:0pWXH6CK!a91:pasGHSPX\nsnkrs-uk-S27.chicooked.io:33128:0pWXH6CK!a79:pasGHSPX\nsnkrs-uk-S10.chicooked.io:33128:0pWXH6CK!a49:pasGHSPX\nsnkrs-uk-S27.chicooked.io:33128:0pWXH6CK!a22:pasGHSPX\nsnkrs-uk-S12.chicooked.io:33128:0pWXH6CK!a42:pasGHSPX\nsnkrs-uk-S7.chicooked.io:33128:0pWXH6CK!a17:pasGHSPX\nsnkrs-uk-S35.chicooked.io:33128:0pWXH6CK!a50:pasGHSPX\nsnkrs-uk-S21.chicooked.io:33128:0pWXH6CK!a99:pasGHSPX\nsnkrs-uk-S8.chicooked.io:33128:0pWXH6CK!a73:pasGHSPX\nsnkrs-uk-S19.chicooked.io:33128:0pWXH6CK!a41:pasGHSPX\nsnkrs-uk-S10.chicooked.io:33128:0pWXH6CK!a3:pasGHSPX\nsnkrs-uk-S7.chicooked.io:33128:0pWXH6CK!a98:pasGHSPX\nsnkrs-uk-S33.chicooked.io:33128:0pWXH6CK!a90:pasGHSPX\nsnkrs-uk-S28.chicooked.io:33128:0pWXH6CK!a96:pasGHSPX\nsnkrs-uk-S29.chicooked.io:33128:0pWXH6CK!a99:pasGHSPX\nsnkrs-uk-S5.chicooked.io:33128:0pWXH6CK!a16:pasGHSPX\nsnkrs-uk-S10.chicooked.io:33128:0pWXH6CK!a47:pasGHSPX\nsnkrs-uk-S23.chicooked.io:33128:0pWXH6CK!a3:pasGHSPX\nsnkrs-uk-S9.chicooked.io:33128:0pWXH6CK!a65:pasGHSPX\nsnkrs-uk-S7.chicooked.io:33128:0pWXH6CK!a41:pasGHSPX\nsnkrs-uk-S4.chicooked.io:33128:0pWXH6CK!a57:pasGHSPX\nsnkrs-uk-S30.chicooked.io:33128:0pWXH6CK!a99:pasGHSPX\nsnkrs-uk-S21.chicooked.io:33128:0pWXH6CK!a7:pasGHSPX\nsnkrs-uk-S34.chicooked.io:33128:0pWXH6CK!a96:pasGHSPX\nsnkrs-uk-S15.chicooked.io:33128:0pWXH6CK!a96:pasGHSPX\nsnkrs-uk-S10.chicooked.io:33128:0pWXH6CK!a80:pasGHSPX\nsnkrs-uk-S28.chicooked.io:33128:0pWXH6CK!a79:pasGHSPX\nsnkrs-uk-S5.chicooked.io:33128:0pWXH6CK!a13:pasGHSPX\nsnkrs-uk-S11.chicooked.io:33128:0pWXH6CK!a26:pasGHSPX\nsnkrs-uk-S12.chicooked.io:33128:0pWXH6CK!a70:pasGHSPX\nsnkrs-uk-S33.chicooked.io:33128:0pWXH6CK!a91:pasGHSPX\nsnkrs-uk-S24.chicooked.io:33128:0pWXH6CK!a74:pasGHSPX\nsnkrs-uk-S2.chicooked.io:33128:0pWXH6CK!a91:pasGHSPX\nsnkrs-uk-S22.chicooked.io:33128:0pWXH6CK!a33:pasGHSPX\nsnkrs-uk-S14.chicooked.io:33128:0pWXH6CK!a91:pasGHSPX\nsnkrs-uk-S35.chicooked.io:33128:0pWXH6CK!a40:pasGHSPX\nsnkrs-uk-S23.chicooked.io:33128:0pWXH6CK!a32:pasGHSPX\nsnkrs-uk-S26.chicooked.io:33128:0pWXH6CK!a63:pasGHSPX\nsnkrs-uk-S31.chicooked.io:33128:0pWXH6CK!a80:pasGHSPX\nsnkrs-uk-S32.chicooked.io:33128:0pWXH6CK!a34:pasGHSPX\nsnkrs-uk-S34.chicooked.io:33128:0pWXH6CK!a61:pasGHSPX\nsnkrs-uk-S11.chicooked.io:33128:0pWXH6CK!a69:pasGHSPX\nsnkrs-uk-S7.chicooked.io:33128:0pWXH6CK!a29:pasGHSPX\nsnkrs-uk-S2.chicooked.io:33128:0pWXH6CK!a92:pasGHSPX\nsnkrs-uk-S34.chicooked.io:33128:0pWXH6CK!a67:pasGHSPX\nsnkrs-uk-S24.chicooked.io:33128:0pWXH6CK!a45:pasGHSPX\nsnkrs-uk-S23.chicooked.io:33128:0pWXH6CK!a38:pasGHSPX\nsnkrs-uk-S23.chicooked.io:33128:0pWXH6CK!a70:pasGHSPX\nsnkrs-uk-S21.chicooked.io:33128:0pWXH6CK!a9:pasGHSPX\nsnkrs-uk-S23.chicooked.io:33128:0pWXH6CK!a79:pasGHSPX\nsnkrs-uk-S6.chicooked.io:33128:0pWXH6CK!a26:pasGHSPX\nsnkrs-uk-S36.chicooked.io:33128:0pWXH6CK!a7:pasGHSPX\nsnkrs-uk-S32.chicooked.io:33128:0pWXH6CK!a85:pasGHSPX\nsnkrs-uk-S5.chicooked.io:33128:0pWXH6CK!a25:pasGHSPX\nsnkrs-uk-S26.chicooked.io:33128:0pWXH6CK!a2:pasGHSPX\nsnkrs-uk-S6.chicooked.io:33128:0pWXH6CK!a81:pasGHSPX\nsnkrs-uk-S12.chicooked.io:33128:0pWXH6CK!a5:pasGHSPX\nsnkrs-uk-S18.chicooked.io:33128:0pWXH6CK!a81:pasGHSPX\nsnkrs-uk-S15.chicooked.io:33128:0pWXH6CK!a93:pasGHSPX\nsnkrs-uk-S31.chicooked.io:33128:0pWXH6CK!a30:pasGHSPX\nsnkrs-uk-S31.chicooked.io:33128:0pWXH6CK!a50:pasGHSPX\nsnkrs-uk-S30.chicooked.io:33128:0pWXH6CK!a84:pasGHSPX\nsnkrs-uk-S24.chicooked.io:33128:0pWXH6CK!a4:pasGHSPX\nsnkrs-uk-S36.chicooked.io:33128:0pWXH6CK!a40:pasGHSPX\nsnkrs-uk-S13.chicooked.io:33128:0pWXH6CK!a16:pasGHSPX\nsnkrs-uk-S2.chicooked.io:33128:0pWXH6CK!a94:pasGHSPX\nsnkrs-uk-S31.chicooked.io:33128:0pWXH6CK!a79:pasGHSPX\nsnkrs-uk-S15.chicooked.io:33128:0pWXH6CK!a48:pasGHSPX\nsnkrs-uk-S28.chicooked.io:33128:0pWXH6CK!a56:pasGHSPX\nsnkrs-uk-S28.chicooked.io:33128:0pWXH6CK!a58:pasGHSPX",
+        "date": 1570696518845,
+        "parsed": [
+            {
+                "ip": "snkrs-uk-S3.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a31",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S19.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a63",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S32.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a68",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S17.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a28",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S29.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a58",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S25.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a57",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S20.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a92",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S30.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a4",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S13.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a25",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S36.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a50",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S24.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a93",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S28.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a34",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S33.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a9",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S36.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a21",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S7.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a16",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S35.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a4",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S34.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a50",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S26.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a94",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S10.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a55",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S7.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a34",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S8.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a66",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S8.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a43",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S15.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a98",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S10.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a90",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S12.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a81",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S20.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a83",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S19.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a17",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S17.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a47",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S20.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a91",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S27.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a79",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S10.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a49",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S27.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a22",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S12.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a42",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S7.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a17",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S35.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a50",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S21.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a99",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S8.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a73",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S19.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a41",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S10.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a3",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S7.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a98",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S33.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a90",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S28.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a96",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S29.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a99",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S5.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a16",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S10.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a47",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S23.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a3",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S9.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a65",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S7.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a41",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S4.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a57",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S30.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a99",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S21.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a7",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S34.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a96",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S15.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a96",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S10.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a80",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S28.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a79",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S5.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a13",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S11.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a26",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S12.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a70",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S33.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a91",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S24.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a74",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S2.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a91",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S22.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a33",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S14.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a91",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S35.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a40",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S23.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a32",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S26.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a63",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S31.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a80",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S32.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a34",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S34.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a61",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S11.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a69",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S7.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a29",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S2.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a92",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S34.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a67",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S24.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a45",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S23.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a38",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S23.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a70",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S21.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a9",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S23.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a79",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S6.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a26",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S36.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a7",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S32.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a85",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S5.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a25",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S26.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a2",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S6.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a81",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S12.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a5",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S18.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a81",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S15.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a93",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S31.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a30",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S31.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a50",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S30.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a84",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S24.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a4",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S36.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a40",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S13.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a16",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S2.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a94",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S31.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a79",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S15.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a48",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S28.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a56",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "snkrs-uk-S28.chicooked.io",
+                "port": "33128",
+                "username": "0pWXH6CK!a58",
+                "password": "pasGHSPX"
+            }
+        ],
+        "count": 98
+    },
+    {
+        "name": "RE",
+        "proxies": "gw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-92162546:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-31876161:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-77514908:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-35223038:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-35224338:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-24937174:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-14416841:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-37024339:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-60766987:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-71365747:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-21342003:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-57972475:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-90219574:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-90361328:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-31036190:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-45772923:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-59272290:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-39759830:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-43813278:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-91957595:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-48318632:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-31533247:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-11077073:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-90612594:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-33287214:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-96957187:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-25346878:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-97269213:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-51483263:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-19317501:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-83680014:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-55603462:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-58557135:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-89783428:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-96596098:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-69619602:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-77617964:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-36758438:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-19304409:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-47927084:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-95803298:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-29942048:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-76368162:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-79097249:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-26521976:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-60066369:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-28733427:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-47829161:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-96046987:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-37024990:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-71709914:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-57858977:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-68305130:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-42371881:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-87130105:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-17341251:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-23767576:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-80310316:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-24770235:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-37235851:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-31036511:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-91140582:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-56585931:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-99301082:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-63861344:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-15234357:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-51340265:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-92401559:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-71630845:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-11706816:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-54524144:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-66163151:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-47233658:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-68904123:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-11954618:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-99794964:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-65036175:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-67046443:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-88815981:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-32533649:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-53913539:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-89025273:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-45563190:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-26067900:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-30274872:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-12302584:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-39870587:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-55344554:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-93197289:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-45290952:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-62386362:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-38199779:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-92817128:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-94661597:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-55992589:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-27230319:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-39711481:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-63667706:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-73817426:pasGHSPX\ngw-chkd.chicooked.io:5959:0pWXH6CK-cc-uk-sid-97648997:pasGHSPX",
+        "date": 1570696536058,
+        "parsed": [
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-92162546",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-31876161",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-77514908",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-35223038",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-35224338",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-24937174",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-14416841",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-37024339",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-60766987",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-71365747",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-21342003",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-57972475",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-90219574",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-90361328",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-31036190",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-45772923",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-59272290",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-39759830",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-43813278",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-91957595",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-48318632",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-31533247",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-11077073",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-90612594",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-33287214",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-96957187",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-25346878",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-97269213",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-51483263",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-19317501",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-83680014",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-55603462",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-58557135",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-89783428",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-96596098",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-69619602",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-77617964",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-36758438",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-19304409",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-47927084",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-95803298",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-29942048",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-76368162",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-79097249",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-26521976",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-60066369",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-28733427",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-47829161",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-96046987",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-37024990",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-71709914",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-57858977",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-68305130",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-42371881",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-87130105",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-17341251",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-23767576",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-80310316",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-24770235",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-37235851",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-31036511",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-91140582",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-56585931",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-99301082",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-63861344",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-15234357",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-51340265",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-92401559",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-71630845",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-11706816",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-54524144",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-66163151",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-47233658",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-68904123",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-11954618",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-99794964",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-65036175",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-67046443",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-88815981",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-32533649",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-53913539",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-89025273",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-45563190",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-26067900",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-30274872",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-12302584",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-39870587",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-55344554",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-93197289",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-45290952",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-62386362",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-38199779",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-92817128",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-94661597",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-55992589",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-27230319",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-39711481",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-63667706",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-73817426",
+                "password": "pasGHSPX"
+            },
+            {
+                "ip": "gw-chkd.chicooked.io",
+                "port": "5959",
+                "username": "0pWXH6CK-cc-uk-sid-97648997",
+                "password": "pasGHSPX"
+            }
+        ],
+        "count": 100
+    },
+    {
+        "name": "FREE",
+        "proxies": "51.89.150.19:41097:sp75bc5c3b:sacai31\n51.89.150.19:45765:sp75bc5c3b:sacai31\n51.89.150.19:37272:sp75bc5c3b:sacai31\n51.89.150.19:45606:sp75bc5c3b:sacai31\n51.89.150.19:42339:sp75bc5c3b:sacai31\n51.89.150.19:36718:sp75bc5c3b:sacai31\n51.89.150.19:45377:sp75bc5c3b:sacai31\n51.89.150.19:44524:sp75bc5c3b:sacai31\n51.89.150.19:39964:sp75bc5c3b:sacai31\n51.89.150.19:41087:sp75bc5c3b:sacai31\n51.89.150.19:40311:sp75bc5c3b:sacai31\n51.89.150.19:39411:sp75bc5c3b:sacai31\n51.89.150.19:41418:sp75bc5c3b:sacai31\n51.89.150.19:37669:sp75bc5c3b:sacai31\n51.89.150.19:41921:sp75bc5c3b:sacai31\n51.89.150.19:41598:sp75bc5c3b:sacai31\n51.89.150.19:46537:sp75bc5c3b:sacai31\n51.89.150.19:41280:sp75bc5c3b:sacai31\n51.89.150.19:42368:sp75bc5c3b:sacai31\n51.89.150.19:37843:sp75bc5c3b:sacai31\n51.89.150.19:41132:sp75bc5c3b:sacai31\n51.89.150.19:46218:sp75bc5c3b:sacai31\n51.89.150.19:41954:sp75bc5c3b:sacai31\n51.89.150.19:45193:sp75bc5c3b:sacai31\n51.89.150.19:39264:sp75bc5c3b:sacai31",
+        "date": 1570696551972,
+        "parsed": [
+            {
+                "ip": "51.89.150.19",
+                "port": "41097",
+                "username": "sp75bc5c3b",
+                "password": "sacai31"
+            },
+            {
+                "ip": "51.89.150.19",
+                "port": "45765",
+                "username": "sp75bc5c3b",
+                "password": "sacai31"
+            },
+            {
+                "ip": "51.89.150.19",
+                "port": "37272",
+                "username": "sp75bc5c3b",
+                "password": "sacai31"
+            },
+            {
+                "ip": "51.89.150.19",
+                "port": "45606",
+                "username": "sp75bc5c3b",
+                "password": "sacai31"
+            },
+            {
+                "ip": "51.89.150.19",
+                "port": "42339",
+                "username": "sp75bc5c3b",
+                "password": "sacai31"
+            },
+            {
+                "ip": "51.89.150.19",
+                "port": "36718",
+                "username": "sp75bc5c3b",
+                "password": "sacai31"
+            },
+            {
+                "ip": "51.89.150.19",
+                "port": "45377",
+                "username": "sp75bc5c3b",
+                "password": "sacai31"
+            },
+            {
+                "ip": "51.89.150.19",
+                "port": "44524",
+                "username": "sp75bc5c3b",
+                "password": "sacai31"
+            },
+            {
+                "ip": "51.89.150.19",
+                "port": "39964",
+                "username": "sp75bc5c3b",
+                "password": "sacai31"
+            },
+            {
+                "ip": "51.89.150.19",
+                "port": "41087",
+                "username": "sp75bc5c3b",
+                "password": "sacai31"
+            },
+            {
+                "ip": "51.89.150.19",
+                "port": "40311",
+                "username": "sp75bc5c3b",
+                "password": "sacai31"
+            },
+            {
+                "ip": "51.89.150.19",
+                "port": "39411",
+                "username": "sp75bc5c3b",
+                "password": "sacai31"
+            },
+            {
+                "ip": "51.89.150.19",
+                "port": "41418",
+                "username": "sp75bc5c3b",
+                "password": "sacai31"
+            },
+            {
+                "ip": "51.89.150.19",
+                "port": "37669",
+                "username": "sp75bc5c3b",
+                "password": "sacai31"
+            },
+            {
+                "ip": "51.89.150.19",
+                "port": "41921",
+                "username": "sp75bc5c3b",
+                "password": "sacai31"
+            },
+            {
+                "ip": "51.89.150.19",
+                "port": "41598",
+                "username": "sp75bc5c3b",
+                "password": "sacai31"
+            },
+            {
+                "ip": "51.89.150.19",
+                "port": "46537",
+                "username": "sp75bc5c3b",
+                "password": "sacai31"
+            },
+            {
+                "ip": "51.89.150.19",
+                "port": "41280",
+                "username": "sp75bc5c3b",
+                "password": "sacai31"
+            },
+            {
+                "ip": "51.89.150.19",
+                "port": "42368",
+                "username": "sp75bc5c3b",
+                "password": "sacai31"
+            },
+            {
+                "ip": "51.89.150.19",
+                "port": "37843",
+                "username": "sp75bc5c3b",
+                "password": "sacai31"
+            },
+            {
+                "ip": "51.89.150.19",
+                "port": "41132",
+                "username": "sp75bc5c3b",
+                "password": "sacai31"
+            },
+            {
+                "ip": "51.89.150.19",
+                "port": "46218",
+                "username": "sp75bc5c3b",
+                "password": "sacai31"
+            },
+            {
+                "ip": "51.89.150.19",
+                "port": "41954",
+                "username": "sp75bc5c3b",
+                "password": "sacai31"
+            },
+            {
+                "ip": "51.89.150.19",
+                "port": "45193",
+                "username": "sp75bc5c3b",
+                "password": "sacai31"
+            },
+            {
+                "ip": "51.89.150.19",
+                "port": "39264",
+                "username": "sp75bc5c3b",
+                "password": "sacai31"
+            }
+        ],
+        "count": 25
+    }
+]
